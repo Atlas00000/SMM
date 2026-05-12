@@ -1,0 +1,15 @@
+# Build / IDE
+*.ex5
+*.obj
+*.pch
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Optional local notes (keep repo clean)
+*.log
